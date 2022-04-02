@@ -1,0 +1,11 @@
+{
+    "title": "$:/plugins/oflg/fishing-zh-Hans",
+    "name": "Fishing zh-Hans",
+    "plugin-type": "plugin",
+    "description": "Fishing Chinese (Simplified)",
+	"parent-plugin": "$:/plugins/oflg/fishing",
+    "author": "oflg",
+    "version": "0.0.1",
+    "list": "readme license",
+    "core-version": ">=5.2.2"  
+}
