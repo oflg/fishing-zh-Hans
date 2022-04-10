@@ -4,6 +4,6 @@ twpub: TWPUB 电子书
 twpubtip: TWPUB 是一种基于 TiddlyWiki 的电子出版物
 twpublibrary: TWPUB 书库
 twpublibrarytip: 此插件库可用来安装和更新 TWPUB 书。
-opentwpub:
+opentwpub: 打开源条目
 add: 添加到常用筛选器
 added: 已添加
