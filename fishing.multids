@@ -38,7 +38,7 @@ azorder: 标题 A-Z
 zaorder: 标题 Z-A
 randomorder: 随机
 viewfiltertip: 查看此筛选器的相关条目
-exportdatatip: 导出学习数据到开源平台以改进 FSRS 算法
+exportdatatip: 导出学习数据并上传到开源平台以改进 FSRS 算法
 settings: 这些高级设置让您定制钓鱼的行为。
 globalsettings: 全局
 setparameter: 参数
