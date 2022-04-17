@@ -2,8 +2,9 @@ title: $:/language/fishing/
 
 fishing: 钓鱼
 calendar: 日历
-learn: 学习
-due: 到期
+review: 已复习
+due: 已到期
+undue: 未到期
 year1st: {start} 上半年
 year2st: {start} 下半年
 type: 种类
