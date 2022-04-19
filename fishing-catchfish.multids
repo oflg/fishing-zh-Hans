@@ -18,5 +18,8 @@ setparameter: 参数
 setinterval: 摘录条目的初始间隔天数
 setintervaltip: 必须是正整数
 importtip: 导入学习材料
-urlfilter: 单词模板的网址
+colorpattern: 摘录句子的颜色
+multiply: 混合
+normal: 遮盖
+urlfilter: 注释单词的网址
 setbodytip: 显示注解条目的条件。
