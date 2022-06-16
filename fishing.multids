@@ -47,5 +47,5 @@ setretention: 目标保留率
 setretentiontip: 必须在 0.7 和 0.95 之间
 settitletip: 显示条目副标题的条件。
 setlearntip: 显示学习条目的条件。
-pluginlibrary: 钓鱼插件库
-pluginlibrarytip: 此插件库可用来安装和更新钓鱼插件的相关插件和学习包。
+pluginlibrary: 墨屉插件库
+pluginlibrarytip: 此插件库可用来安装和更新墨屉的相关插件。

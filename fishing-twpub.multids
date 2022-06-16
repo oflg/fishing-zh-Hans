@@ -2,7 +2,7 @@ title: $:/language/fishing/
 
 twpub: TWPUB 电子书
 twpubtip: TWPUB 是一种基于 TiddlyWiki 的电子出版物
-twpublibrary: TWPUB 书库
+twpublibrary: TWPUB 书插件库
 twpublibrarytip: 此插件库可用来安装和更新 TWPUB 书。
 add: 按章节拆分为渐进阅读材料
 added: 已拆分到常用筛选器
