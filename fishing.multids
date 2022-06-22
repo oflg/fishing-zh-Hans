@@ -3,22 +3,16 @@ title: $:/language/fishing/
 fishing: 钓鱼
 fishingtip: 渐进学习
 fold: 展开或折叠此条目
-learn: 下一个
-learntip: 已学习此条目再学习下一个
+learn: 学习
+learntip: 学习此条目再学习下一个
 forget: 忘记
 forgettip: 忘记答案
 remember: 记得
 remembertip: 记得答案
 grasp: 掌握
 grasptip: 掌握问题
-more: ⁝
-moretip: 更多
 discard: 舍弃
 discardtip: 不再学习此条目
-add7: + 7
-add7tip: 下周学习此条目
-add1: + 1
-add1tip: 明天学习此条目
 fishingpondtip: 学习此组条目
 due: 已到期
 undue: 未到期
