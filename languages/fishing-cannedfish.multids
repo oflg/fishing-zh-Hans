@@ -2,3 +2,5 @@ title: $:/language/fishing/
 
 cannedfishlibrary: 学习包插件库
 cannedfishlibrarytip: 此插件库可用来安装和更新学习包。
+cannedfish: 学习包
+cannedfishtip: 打包好的条目，方便使用和共享，也叫做鱼罐头
