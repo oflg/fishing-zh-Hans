@@ -5,7 +5,7 @@
     "description": "Fishing Chinese (Simplified)",
 	"dependents": "$:/plugins/oflg/fishing",
     "author": "oflg",
-    "version": "0.4.4",
+    "version": "0.4.5",
     "list": "readme license",
-    "core-version": ">=5.2.2"
+    "core-version": ">=5.2.3"
 }
