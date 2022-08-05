@@ -5,6 +5,9 @@ fishingtip: 渐进学习
 fold: 展开或折叠此条目
 learn: 学习
 learntip: 学习此条目
+review: 上次学习
+reps: 连续记住次数
+lapses: 累计遗忘次数
 forget: 忘记
 forgettip: 忘记答案
 remember: 记得
@@ -26,9 +29,12 @@ setalias: 别名
 typealias: 输入别名
 setorder: 学习顺序
 autoorder: 自动优先级
-dueorder: 到期时间
-modifiedorder: 修改时间
-createdorder: 创建时间
+dueorder: 到期时间 先-后
+undueorder: 到期时间 后-先
+modifiedorder: 修改时间 先-后
+unmodifiedorder: 修改时间 后-先
+createdorder: 创建时间 先-后
+uncreatedorder: 创建时间 后-先
 azorder: 标题 A-Z
 zaorder: 标题 Z-A
 randomorder: 随机
