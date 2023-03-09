@@ -5,7 +5,11 @@ fishingtip: 渐进学习
 fold: 展开或折叠此条目
 learn: 学习
 learntip: 学习此条目
-review: 上次学习
+learnquestion: 学习为问题条目
+learnquestiontip: 学习此条目并设为问题条目
+learnexcerpt: 学习为摘录条目
+learnexcerpttip: 学习此条目并设为摘录条目
+review: 历史学习
 reps: 连续记住次数
 lapses: 累计遗忘次数
 forget: 忘记
@@ -14,12 +18,16 @@ remember: 记得
 remembertip: 记得答案
 grasp: 掌握
 grasptip: 掌握问题
-discard: 舍弃
+discard: 丢弃
 discardtip: 不再学习此条目
-fishingpondtip: 学习此组条目
-due: 待学习
+fishingpondtip: 开始
+new: 新学习
+due: 待复习
 undue: 未到期
-new: 新添加
+cloze: 填空题
+clozetip: 设置所选文本为填空题的挖空（使用方式见手册）
+select: 选择题
+selecttip: 设置所选文本为选择题的选项（使用方式见手册）
 commonfiltertip: 常用筛选器
 addfiltertip: 添加到常用筛选器
 unaddfiltertip: 取消添加此常用筛选器
@@ -38,14 +46,21 @@ uncreatedorder: 创建时间 后-先
 azorder: 标题 A-Z
 zaorder: 标题 Z-A
 randomorder: 随机
-viewfiltertip: 查看此筛选器的相关条目
+viewfiltertip: 导出或删除此筛选器的相关条目
 exportdatatip: 导出学习数据并上传到开源平台以改进 FSRS 算法
 settings: 这些高级设置让您定制钓鱼的行为。
 globalsettings: 全局
+setbehavior: 行为
+setfishingdeck: 钓鱼工作台
+setfishingdecktip: 在点击钓鱼指示器时钓鱼工作台的行为
+setclosealltip: 在点击学习组时关闭所有条目的行为
+popup: 弹窗
+navigation: 跳转
 setparameter: 参数
 setretention: 目标学习率
-setretentiontip: 必须在 0.7 和 0.95 之间
+setretentiontip: 默认0.9，且必须在 0.7 和 0.95 之间
 settitletip: 显示条目副标题的条件。
 setlearntip: 显示学习条目的条件。
 pluginlibrary: 墨屉插件库
 pluginlibrarytip: 此插件库可用来安装和更新墨屉的相关插件。
+captionplaceholder: 输入此条目的副标题

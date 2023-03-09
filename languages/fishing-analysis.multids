@@ -1,16 +1,11 @@
-title: $:/language/fishing/
+title: $:/language/fishing-analysis/
 
-fishing: 钓鱼
+analysis: 统计
 calendar: 日历
-review: 已复习
-due: 待学习
+history: 历史
+due: 待复习
 undue: 未到期
 year1st: {start} 上半年
 year2st: {start} 下半年
-type: 种类
-excerpt: 摘录条目
-question: 问答题
-cloze: 填空题
-select: 选择题
-word: 单词题
-other: 其他问题
+focus: 焦点
+focustip: 学习焦点
